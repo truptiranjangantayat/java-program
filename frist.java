@@ -249,6 +249,7 @@ public class frist {
          }while(userNum >= 0);
 
          System.out.println("!!end!!");
+         sc.close();
      }
 }
 
