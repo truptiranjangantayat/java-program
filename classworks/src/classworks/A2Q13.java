@@ -16,6 +16,7 @@ public class A2Q13 {
 		int weight= ob.nextInt();
 		
 		System.out.println("So, you're "+age+" years old, "+height+"\" tall and "+weight+"KG heavy.");
+		ob.close();
 	}
 
 }
