@@ -18,7 +18,7 @@ public class A4Q21 {
 			 }
 		 }
 		 System.out.println("Sum of series: "+sum);
-
+		 sc.close();
 	}
 
 }
